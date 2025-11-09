@@ -1,2 +1,2 @@
 # AIVEx3
-Repository to deploy AIV exercise 3
+Experiencia para testar blink teleport como movimentação, com obstaculos que é necessario ultrapassar
